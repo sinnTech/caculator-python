@@ -36,6 +36,8 @@ button_style = {"bg": "#ff69b4", ...}  # Button colors
 ## Key Addition
 ## 🖼️ Screenshot  
 ![Calculator Preview]
+
+
 ![code](https://github.com/user-attachments/assets/a57fb121-884d-4bf0-b097-5610c12d6121)
 ![preview1](https://github.com/user-attachments/assets/952b8144-2a2e-4b29-a238-ef4e8d7e7f36)
 ![error](https://github.com/user-attachments/assets/7d0bfb8a-f528-4aaa-b629-caacd01dc8a4)
